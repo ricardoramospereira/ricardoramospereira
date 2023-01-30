@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Ricardo Pereira 🖐️
 
 [![Blog](https://img.shields.io/website?label=rrp.com.br.com&style=for-the-badge&url=https://rrpcode.com/)](https://rrpcode.com.br)
-<a href="www.linkedin.com/in/ricardopereiradev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="www.linkedin.com/in/ricardopereiradev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 
 
 
